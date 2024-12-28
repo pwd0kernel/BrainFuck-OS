@@ -611,7 +611,7 @@ void setup(){
   memset(lastBFSource, 0, BF_SOURCE_MAX);
   lastBFUsed = false;
 
-  Serial.println(F("FullShellBFOS Optimized - Type HELP"));
+  Serial.println(F("BFOS - Type HELP"));
   Serial.print(F("> "));
 }
 
